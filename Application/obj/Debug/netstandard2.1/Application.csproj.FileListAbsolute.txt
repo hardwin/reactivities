@@ -1,0 +1,14 @@
+D:\OneDrive - SIEMENSGAMESA\ReactTypescriptMobxdemo\Demo\Reactivities\Application\bin\Debug\netstandard2.1\Application.deps.json
+D:\OneDrive - SIEMENSGAMESA\ReactTypescriptMobxdemo\Demo\Reactivities\Application\bin\Debug\netstandard2.1\Application.dll
+D:\OneDrive - SIEMENSGAMESA\ReactTypescriptMobxdemo\Demo\Reactivities\Application\bin\Debug\netstandard2.1\Application.pdb
+D:\OneDrive - SIEMENSGAMESA\ReactTypescriptMobxdemo\Demo\Reactivities\Application\bin\Debug\netstandard2.1\Domain.dll
+D:\OneDrive - SIEMENSGAMESA\ReactTypescriptMobxdemo\Demo\Reactivities\Application\bin\Debug\netstandard2.1\Persistence.dll
+D:\OneDrive - SIEMENSGAMESA\ReactTypescriptMobxdemo\Demo\Reactivities\Application\bin\Debug\netstandard2.1\Domain.pdb
+D:\OneDrive - SIEMENSGAMESA\ReactTypescriptMobxdemo\Demo\Reactivities\Application\bin\Debug\netstandard2.1\Persistence.pdb
+D:\OneDrive - SIEMENSGAMESA\ReactTypescriptMobxdemo\Demo\Reactivities\Application\obj\Debug\netstandard2.1\Application.csprojAssemblyReference.cache
+D:\OneDrive - SIEMENSGAMESA\ReactTypescriptMobxdemo\Demo\Reactivities\Application\obj\Debug\netstandard2.1\Application.csproj.CoreCompileInputs.cache
+D:\OneDrive - SIEMENSGAMESA\ReactTypescriptMobxdemo\Demo\Reactivities\Application\obj\Debug\netstandard2.1\Application.AssemblyInfoInputs.cache
+D:\OneDrive - SIEMENSGAMESA\ReactTypescriptMobxdemo\Demo\Reactivities\Application\obj\Debug\netstandard2.1\Application.AssemblyInfo.cs
+D:\OneDrive - SIEMENSGAMESA\ReactTypescriptMobxdemo\Demo\Reactivities\Application\obj\Debug\netstandard2.1\Application.csproj.CopyComplete
+D:\OneDrive - SIEMENSGAMESA\ReactTypescriptMobxdemo\Demo\Reactivities\Application\obj\Debug\netstandard2.1\Application.dll
+D:\OneDrive - SIEMENSGAMESA\ReactTypescriptMobxdemo\Demo\Reactivities\Application\obj\Debug\netstandard2.1\Application.pdb

@@ -1,0 +1,12 @@
+D:\OneDrive - SIEMENSGAMESA\ReactTypescriptMobxdemo\Demo\Reactivities\Persistence\bin\Debug\netstandard2.0\Persistence.deps.json
+D:\OneDrive - SIEMENSGAMESA\ReactTypescriptMobxdemo\Demo\Reactivities\Persistence\bin\Debug\netstandard2.0\Persistence.dll
+D:\OneDrive - SIEMENSGAMESA\ReactTypescriptMobxdemo\Demo\Reactivities\Persistence\bin\Debug\netstandard2.0\Persistence.pdb
+D:\OneDrive - SIEMENSGAMESA\ReactTypescriptMobxdemo\Demo\Reactivities\Persistence\bin\Debug\netstandard2.0\Domain.dll
+D:\OneDrive - SIEMENSGAMESA\ReactTypescriptMobxdemo\Demo\Reactivities\Persistence\bin\Debug\netstandard2.0\Domain.pdb
+D:\OneDrive - SIEMENSGAMESA\ReactTypescriptMobxdemo\Demo\Reactivities\Persistence\obj\Debug\netstandard2.0\Persistence.csprojAssemblyReference.cache
+D:\OneDrive - SIEMENSGAMESA\ReactTypescriptMobxdemo\Demo\Reactivities\Persistence\obj\Debug\netstandard2.0\Persistence.csproj.CoreCompileInputs.cache
+D:\OneDrive - SIEMENSGAMESA\ReactTypescriptMobxdemo\Demo\Reactivities\Persistence\obj\Debug\netstandard2.0\Persistence.AssemblyInfoInputs.cache
+D:\OneDrive - SIEMENSGAMESA\ReactTypescriptMobxdemo\Demo\Reactivities\Persistence\obj\Debug\netstandard2.0\Persistence.AssemblyInfo.cs
+D:\OneDrive - SIEMENSGAMESA\ReactTypescriptMobxdemo\Demo\Reactivities\Persistence\obj\Debug\netstandard2.0\Persistence.csproj.CopyComplete
+D:\OneDrive - SIEMENSGAMESA\ReactTypescriptMobxdemo\Demo\Reactivities\Persistence\obj\Debug\netstandard2.0\Persistence.dll
+D:\OneDrive - SIEMENSGAMESA\ReactTypescriptMobxdemo\Demo\Reactivities\Persistence\obj\Debug\netstandard2.0\Persistence.pdb
